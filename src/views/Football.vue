@@ -1,7 +1,7 @@
 <template>
 <div style="background-color: #F3EAC6">
-    <div style="background-color: #575353; height: 48px;">
-        foootball
+    <div style="background-color: #575353; height: 48px; display: flex; align-items: center">
+        <span class="pl-3" style="color: white">foootball</span>
     </div>
     <div class="row">
         <div class="col">
@@ -19,101 +19,100 @@
 
     </div>
     <div class="row" style="background-color: #F7CB82">
-        <div class="col">
+        <div class="col-6">
             European competition
         </div>
-        <div class="col">
+        <div class="col text-center">
             1
         </div>
-        <div class="col">
+        <div class="col text-center">
             x
         </div>
-        <div class="col">
+        <div class="col text-center">
             2
         </div>
 
     </div>
-    <div class="row">
-        <div class="col">
+    <div class="row py-3 px-2" style="align-items: center">
+        <div class="col-6">
             <div class="row">
-                <div class="col">goerr</div>
+                <div class="col">Nigeria</div>
+                <div class="col">1</div>
+            </div>
+            <div class="row">
+                <div class="col">Ghanna</div>
                 <div class="col">0</div>
             </div>
             <div class="row">
-                <div class="col">goerr</div>
-                <div class="col">0</div>
-            </div>
-            <div class="row">
-                <div class="col">goerr</div>
-                <div class="col">0</div>
+                <div class="col">first half 35</div>
+                <div class="col">x</div>
             </div>
 
         </div>
-        <div class="col">
-            216
-        </div>
-        <div class="col">
-            216
-        </div>
-        <div class="col">
-            216
-        </div>
-
+            <div class="col text-center" style="background-color: #F7CB82; border-right: 2px solid white">
+                216
+            </div>
+            <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
+                216
+            </div>
+            <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
+                216
+            </div>
     </div>
-    <div class="row">
-        <div class="col">
+    <div class="row py-3 px-2" style="align-items: center">
+        <div class="col-6">
             <div class="row">
-                <div class="col">goerr</div>
+                <div class="col">Nigeria</div>
+                <div class="col">1</div>
+            </div>
+            <div class="row">
+                <div class="col">Ghanna</div>
                 <div class="col">0</div>
             </div>
             <div class="row">
-                <div class="col">goerr</div>
-                <div class="col">0</div>
-            </div>
-            <div class="row">
-                <div class="col">goerr</div>
-                <div class="col">0</div>
+                <div class="col">first half 35</div>
+                <div class="col">x</div>
             </div>
 
         </div>
-        <div class="col">
+        <div class="col text-center" style="background-color: #F7CB82;height: 100%; border-right: 2px solid white">
             216
         </div>
-        <div class="col">
+        <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
             216
         </div>
-        <div class="col">
+        <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
             216
         </div>
-
     </div>
-    <div class="row">
-        <div class="col">
+    <div class="row py-3 px-2" style="align-items: center">
+        <div class="col-6">
             <div class="row">
-                <div class="col">goerr</div>
+                <div class="col">Nigeria</div>
+                <div class="col">1</div>
+            </div>
+            <div class="row">
+                <div class="col">Ghanna</div>
                 <div class="col">0</div>
             </div>
             <div class="row">
-                <div class="col">goerr</div>
-                <div class="col">0</div>
-            </div>
-            <div class="row">
-                <div class="col">goerr</div>
-                <div class="col">0</div>
+                <div class="col">first half 35</div>
+                <div class="col">x</div>
             </div>
 
         </div>
-        <div class="col" style="background-color: #F7CB82">
+        <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
             216
         </div>
-        <div class="col">
+        <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
             216
         </div>
-        <div class="col">
+        <div class="col text-center" style="background-color: #F7CB82;border-right: 2px solid white">
             216
         </div>
-
     </div>
+
+
 </div>
 
 </template>

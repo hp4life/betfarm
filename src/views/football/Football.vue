@@ -1,5 +1,5 @@
 <template>
-<div class="pb-5" style="background-color: #F3EAC6">
+<div class="pb-3" style="background-color: #F3EAC6">
     <div style="background-color: #575353; height: 48px; display: flex; align-items: center">
         <span class="pl-3" style="color: white">Foootball</span>
     </div>
@@ -94,7 +94,7 @@
             {{footballData.game["16250119"].market["422166141"].event["1371903637"].price}}
         </div>
     </div>
-    <div class="row py-3 px-2" style="align-items: center">
+    <div class="row py-3 px-2" style="align-items: center; border-bottom: 1px solid #DADADA">
         <div class="col-6">
             <div class="row  py-1">
                 <div class="col-8">Barcelona</div>

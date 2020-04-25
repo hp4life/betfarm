@@ -14,9 +14,9 @@
                 <div  class="btn mr-5" style="background-color: #575353; color: #FFFFFF;width: 156px;">Book bet</div>
                 <div  class="btn" style="background-color: #575353; color: #FFFFFF;width: 156px;">Bet slip ({{betSlipCount}})</div>
             </div>
-            <div>
-                <button type="button" class="btn mr-3" style="background-color: #EF5350; color: #FFFFFF;width: 156px">Join Now</button>
-                <button type="button" class="btn" style="background-color: #575353; color: #FFFFFF;width: 156px">Login</button>
+            <div class="d-flex" style="align-items: center;justify-content: center">
+                <button type="button" class="btn mr-3 cus-btn">Join Now</button>
+                <button type="button" class="btn cus-btn" style="background-color:  #575353">Login</button>
             </div>
         </nav>
     </div>

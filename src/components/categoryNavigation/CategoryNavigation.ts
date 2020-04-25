@@ -9,6 +9,6 @@ import {mapState} from "vuex";
     }
 
 })
-export default class Home extends Vue {
+export default class CategoryNavigation extends Vue {
 
 }
